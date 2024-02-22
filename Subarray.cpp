@@ -1,4 +1,15 @@
 // printing the sum of the subarrays of an given array;
+/*for(int i=0; i<n; i++)
+    {
+        for(int j=i; j<n; j++)
+        {
+            
+          s=s+arr[j];
+          cout<<s<<endl;
+            
+        }
+        s=0;
+    }*/
 #include<iostream>
 using namespace std;
 
