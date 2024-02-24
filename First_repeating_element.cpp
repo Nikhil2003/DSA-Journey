@@ -1,3 +1,4 @@
+//First repeating element question asked in amazon and oracle
 #include<iostream>
 using namespace std;
 
