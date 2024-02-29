@@ -36,5 +36,6 @@ int main()
     cout<<"enter the number u want the factor of"<<endl;
     cin>>n;
     primeFactor(n);
+    cout<<"this is the required result"<<endl;
     return 0;
 }
