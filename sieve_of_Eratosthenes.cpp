@@ -33,5 +33,6 @@ int main()
     cout<<"enter the number till u want the prime numbers"<<endl;
     cin>>n;
     primeSieve(n);
+    cout<<"this is the required result"<<endl;
     return 0;
 }
